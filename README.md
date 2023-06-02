@@ -1,4 +1,4 @@
-# Sprin-boot
+# Spring-boot
 Simple Student Crude Operations
 Software Used: Spring-Tool-Suite4 , Mysql Workbench 8.0 CE
 Follow steps to run program on your system:
